@@ -4,19 +4,19 @@ O objetivo do projeto é fazer com que ao passar o mouse pelos estados do Brasil
 
 ## 📢 Avisos
 
-Para executar o projeto em sua máquina você deve instalado na sua máquina o XAMPP, pois o projeto foi feito em PHP.
+Para executar o projeto em sua máquina você deve ter instalado na sua máquina o XAMPP, pois o projeto foi feito em PHP.
 
 <a href="https://www.apachefriends.org/pt_br/index.html"> Download XAMPP </a>
 
 ## 📚 Materiais
 
-    PHP
-    CSS
-    JS
-    Imagem SVG
-    XAMPP
+    PHP (Hypertext Preprocessor)
+    CSS (Cascading Style Sheet)
+    JS (JavaScript)
+    Imagem SVG (Scalable Vector Graphics)
+    XAMPP (Apache MySQL PHP Pearl)
 
-## 📁 Baixando e executando o projeto
+## 📁 Projeto
 ### Fazendo o clone do repósitorio:
 
     git clone https://github.com/brunnuscz/map-color.git
@@ -25,11 +25,11 @@ Para executar o projeto em sua máquina você deve instalado na sua máquina o X
 
     cd map-color
 
-### Acessando no página no navegador. Lembre de inicilizar o Apache no XAMPP:
+### Acessando a página no navegador. Lembre de inicilizar o Apache no XAMPP:
 
     http://localhost/map-color/index.php
 
-## ⛓ Estrutura do projeto
+## 🗃 Estrutura do projeto
 
     ├── public
     │ ├── css
@@ -41,3 +41,6 @@ Para executar o projeto em sua máquina você deve instalado na sua máquina o X
     │ | └── script.js
     └── index.php
 
+## 🚩 Prévia
+
+<img src="public/img/previa.png" width="200">
