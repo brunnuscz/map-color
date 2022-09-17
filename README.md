@@ -1,10 +1,10 @@
 # 📌 Mapa Do Brasil
 
-O objetivo do projeto é fazer com que ao passar o mouse pelos estados do Brasil seja mudado a cor deles.
+O objetivo inicial do projeto é fazer com que ao passar o mouse pelos estados do Brasil seja mudado a cor deles.
 
 ## 📢 Avisos
 
-Para executar o projeto em sua máquina você deve ter instalado na sua máquina o XAMPP, pois o projeto foi feito em PHP.
+Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o projeto foi feito em PHP.
 
 <a href="https://www.apachefriends.org/pt_br/index.html"> Download XAMPP </a>
 
