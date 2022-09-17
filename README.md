@@ -17,15 +17,15 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
     XAMPP (Apache MySQL PHP Pearl)
 
 ## 📁 Projeto
-### 📍 Fazendo o clone do repósitorio:
+### 📍 Fazendo o clone do repositório:
 
     git clone https://github.com/brunnuscz/map-color.git
 
-### 📍 Entrando no repósitorio baixado:
+### 📍 Entrando no repositório baixado:
 
     cd map-color
 
-### 📍 Acessando a página no navegador. Lembre de inicilizar o Apache no XAMPP:
+### 📍 Acessando a página no navegador. Lembre de inicializar o Apache no XAMPP:
 
     http://localhost/map-color/index.php
 
