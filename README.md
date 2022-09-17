@@ -37,7 +37,7 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
     │ ├── img
     │ │ ├── brasil-mapa.svg
     │ │ ├── favicon.png
-    | │ └── previa.png
+    │ │ └── previa.png
     │ ├── js
     │ │ └── script.js
     └── index.php
