@@ -33,13 +33,13 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
 
     ├── public
     │ ├── css
-    │ | └── style.css
+    │ │ └── style.css
     │ ├── img
     │ │ ├── brasil-mapa.svg
-    | │ ├── favicon.png
+    │ │ ├── favicon.png
     | │ └── previa.png
     │ ├── js
-    │ | └── script.js
+    │ │ └── script.js
     └── index.php
 
 ## 🚩 Prévia
