@@ -2,7 +2,6 @@
 
 O objetivo inicial do projeto é fazer com que ao passar o mouse pelos estados do Brasil seja mudado a cor deles.
 
-
 ## 🚩 Prévia
 
 <img src="public/img/previa.png" width="100%">
