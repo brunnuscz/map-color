@@ -2,6 +2,11 @@
 
 O objetivo inicial do projeto é fazer com que ao passar o mouse pelos estados do Brasil seja mudado a cor deles.
 
+
+## 🚩 Prévia
+
+<img src="public/img/previa.png" width="100%">
+
 ## 📢 Avisos
 
 Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o projeto foi feito em PHP.
@@ -41,7 +46,3 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
     │ ├── js
     │ │ └── script.js
     └── index.php
-
-## 🚩 Prévia
-
-<img src="public/img/previa.png" width="100%">
