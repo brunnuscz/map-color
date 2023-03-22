@@ -14,11 +14,10 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
 
 ## 📚 Materiais
 
-    PHP (Hypertext Preprocessor)
-    CSS (Cascading Style Sheet)
-    JS (JavaScript)
-    Imagem SVG (Scalable Vector Graphics)
-    XAMPP (Apache MySQL PHP Pearl)
+- PHP (Hypertext Preprocessor)
+- CSS (Cascading Style Sheet)
+- JS (JavaScript)
+- XAMPP (Apache MySQL PHP Pearl)
 
 ## 📁 Projeto
 ### 📍 Fazendo o clone do repositório:
@@ -32,16 +31,3 @@ Para executar o projeto em sua máquina você deve ter instalado o XAMPP, pois o
 ### 📍 Acessando a página no navegador. Lembre de inicializar o Apache no XAMPP:
 
     http://localhost/map-color/index.php
-
-## 🗃 Estrutura do projeto
-
-    ├── public
-    │ ├── css
-    │ │ └── style.css
-    │ ├── img
-    │ │ ├── brasil-mapa.svg
-    │ │ ├── favicon.png
-    │ │ └── previa.png
-    │ ├── js
-    │ │ └── script.js
-    └── index.php
